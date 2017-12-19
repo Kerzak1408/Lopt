@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lopt.Plugins", "Lopt.Plugins.csproj", "{D9B9CA0C-DF90-A112-FD56-1BA0AB2B7BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lopt", "Lopt.csproj", "{5BE03FFB-E823-74F4-70C4-2070A254C4AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lopt.Editor", "Lopt.Editor.csproj", "{8278AED7-533B-8647-B80B-725514B13DD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B9CA0C-DF90-A112-FD56-1BA0AB2B7BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B9CA0C-DF90-A112-FD56-1BA0AB2B7BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B9CA0C-DF90-A112-FD56-1BA0AB2B7BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B9CA0C-DF90-A112-FD56-1BA0AB2B7BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE03FFB-E823-74F4-70C4-2070A254C4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE03FFB-E823-74F4-70C4-2070A254C4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE03FFB-E823-74F4-70C4-2070A254C4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE03FFB-E823-74F4-70C4-2070A254C4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8278AED7-533B-8647-B80B-725514B13DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8278AED7-533B-8647-B80B-725514B13DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8278AED7-533B-8647-B80B-725514B13DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8278AED7-533B-8647-B80B-725514B13DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

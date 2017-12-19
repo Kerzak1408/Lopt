@@ -1,0 +1,7 @@
+protoc.exe
+.idea
+.vs
+*.psd
+*.psd.meta
+Builds
+Builds/
